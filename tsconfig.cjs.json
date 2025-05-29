@@ -2,7 +2,7 @@
   "extends": "./tsconfig.json",
   "compilerOptions": {
     "target": "es2018",
-    "module": "commonjs",
+    "module": "commonjs1",
     "outDir": "./dist/cjs"
   }
 } 
